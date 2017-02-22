@@ -1,5 +1,8 @@
 # leetcode
 
-##DP
-###32 Longest Valid Parentheses
-###72 Edit Distance
+***
+###DP
+  
+  *[32 Longest Valid Parentheses](32)
+  
+  *[72 Edit Distance](72)
