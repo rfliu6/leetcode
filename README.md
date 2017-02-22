@@ -2,7 +2,5 @@
 
 ***
 ###DP
-  
-  *[32 Longest Valid Parentheses](32)
-  
-  *[72 Edit Distance](72)
+  * [32 Longest Valid Parentheses](32)
+  * [72 Edit Distance](72)
