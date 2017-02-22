@@ -16,3 +16,5 @@ public:
         return result;
     }
 };
+
+// if ）遇到（, pop, 计算长度 = 当前位置 - 前一个没配对的位置； else push
