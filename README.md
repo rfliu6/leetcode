@@ -2,8 +2,8 @@
 
 ***
 ###DP
-  * [32 Longest Valid Parentheses](32)
-  * [72 Edit Distance](72)
+  * [32 Longest Valid Parentheses](32/solution.cpp)
+  * [72 Edit Distance](72/solution.cpp)
 
 
 ###Stack
