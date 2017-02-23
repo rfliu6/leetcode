@@ -4,3 +4,7 @@
 ###DP
   * [32 Longest Valid Parentheses](32)
   * [72 Edit Distance](72)
+
+
+###Stack
+  * [84 Largest Rectangle in Histogram](84/solution.cpp)
