@@ -9,3 +9,6 @@
 
 ###Stack
   * [84 Largest Rectangle in Histogram](84/solution.cpp)
+
+###Tree
+  * [95 Unique Binary Search Trees II](95/solution.cpp)
