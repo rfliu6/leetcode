@@ -14,3 +14,4 @@
 
 ###Tree
   * [95 Unique Binary Search Trees II](95/solution.cpp)
+  * [98 Validate Binary Search Tree](98/solution.cpp)   //in order traversal
