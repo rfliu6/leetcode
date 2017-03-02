@@ -15,3 +15,7 @@
 ###Tree
   * [95 Unique Binary Search Trees II](95/solution.cpp)
   * [98 Validate Binary Search Tree](98/solution.cpp)   //in order traversal
+  * [100 Same Tree](100/solution.cpp)
+  * [94 Binary Tree Inorder Traversal](100/solution.cpp)
+  * [144 Binary Tree Preorder Traversal](144/solution.cpp)
+  * [145 Binary Tree Postorder Traversal](145/solution.cpp)
