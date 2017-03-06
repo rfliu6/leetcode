@@ -21,3 +21,4 @@
   * [145 Binary Tree Postorder Traversal](145/solution.cpp)
   * [102 Binary Tree Level Order Traversal](102)
   * [103 Binary Tree Zigzag Level Order Traversal](103/solution.cpp)
+  * [514 Freedom Trail](514/solution.cpp)
