@@ -8,6 +8,7 @@
   * [97 Interleaving String](97/solution.cpp)
   * [115 Distinct Subsequences](115/solution.cpp)
   * **[312 Burst Balloons](312/solution.cpp)
+  * [514 Freedom Trail](514/solution.cpp)
 
 ###Stack
   * [84 Largest Rectangle in Histogram](84/solution.cpp)
@@ -21,4 +22,3 @@
   * [145 Binary Tree Postorder Traversal](145/solution.cpp)
   * [102 Binary Tree Level Order Traversal](102)
   * [103 Binary Tree Zigzag Level Order Traversal](103/solution.cpp)
-  * [514 Freedom Trail](514/solution.cpp)
