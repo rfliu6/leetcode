@@ -22,3 +22,6 @@
   * [145 Binary Tree Postorder Traversal](145/solution.cpp)
   * [102 Binary Tree Level Order Traversal](102)
   * [103 Binary Tree Zigzag Level Order Traversal](103/solution.cpp)
+  * [112 Path Sum](112/solution.cpp)
+  * [104 Maximum Depth of Binary Tree](104/solution.cpp)
+  * [124 Binary Tree Maximum Path Sum](124.cpp)
